@@ -1,2 +1,2 @@
-# Buiding a Simple online food websitr
+# Buiding a Simple online food website
 A Restaurant website
